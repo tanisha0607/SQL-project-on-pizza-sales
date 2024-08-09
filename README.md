@@ -4,18 +4,18 @@ This project involves a comprehensive analysis of a pizza sales database using S
 
 Process Overview:
 Data Exploration:
-
 Examined the structure and contents of the database to understand the relationships between tables and the nature of the data.
-Basic Analysis:
 
+Basic Analysis:
 Performed initial queries to retrieve fundamental metrics such as the total number of orders and total revenue.
 Identified key details like the highest-priced pizza and the most common pizza size.
-Intermediate Analysis:
 
+Intermediate Analysis:
 Conducted joins between relevant tables to analyze order distributions by time and pizza categories.
 Calculated average daily orders and evaluated top-revenue pizza types.
-Advanced Analysis:
 
+Advanced Analysis:
 Applied advanced SQL techniques to calculate the percentage contribution of each pizza type to total revenue.
 Analyzed cumulative revenue trends over time and determined the top-performing pizza types within each category.
+
 This project highlights the ability to perform detailed data analysis, demonstrating skills in SQL query writing, data aggregation, and generating actionable business insights.
